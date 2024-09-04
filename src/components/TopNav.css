@@ -1,0 +1,21 @@
+.top-nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #FFD700; 
+    padding: 10px;
+}
+
+.gov-india {
+    font-weight: bold;
+}
+
+.language-selector span {
+    cursor: pointer;
+    margin-left: 10px;
+}
+
+.language-selector span:hover {
+    text-decoration: underline;
+}
+
